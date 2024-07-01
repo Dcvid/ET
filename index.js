@@ -30,7 +30,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Enhance™"];
+const statusMessages = ["Watching DexiiLounge"];
 
 
 let currentIndex = 0;
